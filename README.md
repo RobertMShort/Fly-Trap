@@ -9,3 +9,6 @@ Simple game made with SFML and C++.
 
 
 <img width="804" alt="screenshot2" src="https://github.com/RobertMShort/flytrap/assets/134110968/76ee18d9-70b8-4c74-bd6b-415a7a7449aa">
+
+
+Assets/Images via CleanPNG.com
