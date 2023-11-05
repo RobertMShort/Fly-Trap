@@ -3,7 +3,7 @@ SFML/C++ Game
 
 Simple game made with SFML and C++.
 
-Catch the flies as they fall to gain points.
+Catch the flies as they fall to gain points.\n
 Miss 10 flies and you lose.
 Level increases every 100 points.
 Flies fall faster each level.
